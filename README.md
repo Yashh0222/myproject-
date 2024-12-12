@@ -1,4 +1,5 @@
 # myproject-
+
 this is my first git repository. 
 <br>
-Author - Yash Koparkar
+Author - Yash Koparkar(yash)
